@@ -1,0 +1,2 @@
+data/* #ignore everything in the directory named data
+*.tsv #ignore any file with the .tsv extension
